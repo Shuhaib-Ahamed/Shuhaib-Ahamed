@@ -1,9 +1,9 @@
 # Hi, I'm Shuhaib Ahamed 👋  
 ### Senior Frontend / Software Engineer | React • TypeScript • Design Systems
 
-I’m a Senior Software Engineer based in **Colombo, Sri Lanka**, passionate about building **scalable, high-performance frontend applications** that balance **great UX** with **clean, maintainable code**.
+I’m a Senior Software Engineer based in **Colombo, Sri Lanka**, passionate about building **scalable, high-performance frontend applications** that combine **great user experience** with **clean, maintainable code**.
 
-I specialize in **React, TypeScript, and modern frontend architecture**, and I enjoy working at the intersection of **design systems, product thinking, and engineering excellence**.
+I specialize in **React, TypeScript, and modern frontend architecture**, with experience across **enterprise SaaS**, design systems, and AI-powered products.
 
 ---
 
@@ -14,7 +14,7 @@ I specialize in **React, TypeScript, and modern frontend architecture**, and I e
 - Translate **Figma designs → production-ready UI**  
 - Optimize performance, accessibility, and developer experience  
 - Mentor engineers through code reviews and architectural guidance  
-- Leverage **AI-assisted workflows** to ship faster and smarter  
+- Leverage **AI-assisted workflows** (Cursor, Copilot) to ship faster  
 
 ---
 
@@ -32,7 +32,7 @@ I specialize in **React, TypeScript, and modern frontend architecture**, and I e
 **Tooling**
 - Git, GitHub Actions, Docker
 - CI/CD, AWS
-- Cursor & AI-powered dev tools
+- AI-powered development tools (Cursor)
 
 ---
 
@@ -42,7 +42,7 @@ I specialize in **React, TypeScript, and modern frontend architecture**, and I e
 AI-powered financial benefits platform for a major US brokerage  
 - Built secure authentication (OAuth 2.0, SSO)  
 - Developed complex React UI workflows  
-- Optimized performance & scalability  
+- Improved performance and scalability  
 
 **Tech:** React, TypeScript, AI, OAuth, AWS  
 
@@ -62,8 +62,8 @@ Virtual mental health companion with emotional analysis
 
 ## 📊 GitHub Stats
 
-![Shuhaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Shuhaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuhaib-Ahamed&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuhaib-Ahamed&layout=compact&theme=tokyonight)
 
 ---
 
@@ -75,4 +75,4 @@ Virtual mental health companion with emotional analysis
 
 ---
 
-> *I value simplicity over cleverness, readability over complexity, and building software that scales — both technically and for the people who use it.*
+> *I value simplicity over cleverness, readability over complexity, and building software that scales — technically and for the people who use it.*
