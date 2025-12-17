@@ -1,28 +1,78 @@
-<img src="https://raw.githubusercontent.com/RukshanDias/GitHub-ReadMe-Generator/main/client/src/assets/cover-img.gif" align="center" style="width: 100%" />
+# Hi, I'm Shuhaib Ahamed 👋  
+### Senior Frontend / Software Engineer | React • TypeScript • Design Systems
 
- # Hey 👋, I'm Shuhaib Ahamed
-## Glad to see you here!
+I’m a Senior Software Engineer based in **Colombo, Sri Lanka**, passionate about building **scalable, high-performance frontend applications** that balance **great UX** with **clean, maintainable code**.
 
- ## Rapidfire
- <table><tr><td valign="top" width="50%">🔭 I’m currently working on:  DataLan an Automated Decentralized Data Marketplace</td><td valign="top" width="50%"><div align="center"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="center" style="width: 100%" /></div> </td></tr></table>
+I specialize in **React, TypeScript, and modern frontend architecture**, and I enjoy working at the intersection of **design systems, product thinking, and engineering excellence**.
 
-## Skill Set
-<table align='center' style='margin-left:auto; margin-right:auto;'><tr><td style="width: 25%; vertical-align: top; text-align:center;"> 
+---
 
-### **Languages** 
- <div align="center"><img style="margin: 5px" src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/javascript/javascript-plain.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/typescript/typescript-plain.svg" alt="React" width="40" height="40" /></div></td><td style="width: 25%; vertical-align: top; text-align:center;"> 
+## 🚀 What I Do
 
-### **Frontend** 
- <div align="center"><img style="margin: 5px" src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/html5/html5-original.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/css3/css3-original.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/sass/sass-original.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/react/react-original.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/angularjs/angularjs-original.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="React" width="40" height="40" /></div></td><td style="width: 25%; vertical-align: top; text-align:center;"> 
+- Build **enterprise-grade SaaS applications** using React & TypeScript  
+- Design and maintain **scalable component libraries & design systems**  
+- Translate **Figma designs → production-ready UI**  
+- Optimize performance, accessibility, and developer experience  
+- Mentor engineers through code reviews and architectural guidance  
+- Leverage **AI-assisted workflows** to ship faster and smarter  
 
-### **Backend** 
- <div align="center"><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="React" width="40" height="40" /><img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="React" width="40" height="40" /></div></td> </tr></table>
+---
 
-## Contact Me
-<a href="https://www.linkedin.com/in/shuhaibahamed" target="_blank" style="display: inline-block; margin-right: 12px;"> <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" /></a>
+## 🛠 Tech Stack
 
-## Github Stats 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Shuhaib-Ahamed&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+**Frontend**
+- React, TypeScript, JavaScript (ES6+)
+- HTML5, CSS3, Tailwind CSS, MUI
+- Storybook, Design Systems, Figma
 
-## Most Used Languages 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&layout=compact" align="center" /></div>  
+**Backend / Platform**
+- Node.js, Java, Spring Boot
+- REST APIs, OAuth 2.0, SSO
+
+**Tooling**
+- Git, GitHub Actions, Docker
+- CI/CD, AWS
+- Cursor & AI-powered dev tools
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 PlanYear (Enterprise SaaS – Ongoing)
+AI-powered financial benefits platform for a major US brokerage  
+- Built secure authentication (OAuth 2.0, SSO)  
+- Developed complex React UI workflows  
+- Optimized performance & scalability  
+
+**Tech:** React, TypeScript, AI, OAuth, AWS  
+
+---
+
+### 🔹 DataLan
+Decentralized marketplace for secure data exchange  
+**Tech:** AutoML, IoT, Web Technologies  
+
+---
+
+### 🔹 Project PIKAIA
+Virtual mental health companion with emotional analysis  
+**Tech:** Emotional Analysis, ML, UX-focused design  
+
+---
+
+## 📊 GitHub Stats
+
+![Shuhaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shuhaibahamed)
+- 🌐 Portfolio: https://rb.gy/4u6myv
+- 📫 Email: shuhaibsamadh@gmail.com
+
+---
+
+> *I value simplicity over cleverness, readability over complexity, and building software that scales — both technically and for the people who use it.*
